@@ -1,8 +1,8 @@
-# StudyMate – Smart Student Planner
+# TaskMate
 
 ## Deskripsi
 
-StudyMate adalah aplikasi mobile yang membantu mahasiswa mengatur tugas dan jadwal kuliah agar lebih terorganisir.
+TaskMate adalah aplikasi mobile yang membantu mahasiswa mengatur tugas dan jadwal kuliah agar lebih terorganisir.
 
 Aplikasi ini dibuat menggunakan Flutter dan dapat berjalan secara offline.
 
@@ -26,10 +26,10 @@ Aplikasi ini dibuat menggunakan Flutter dan dapat berjalan secara offline.
 
 ## Teknologi yang Digunakan
 
-* Flutter
-* Dart
-* SQLite / Hive
-* Git
+- Flutter
+- Dart
+- SQLite / Hive
+- Git
 
 ---
 
